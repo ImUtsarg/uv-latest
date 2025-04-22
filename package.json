@@ -23,6 +23,7 @@
 		"format": "prettier --config .prettierrc.js --write .",
 		"lint": "eslint ./src/",
 		"lint:fix": "eslint ./src/ --fix"
+		"heroku-postbuild": "pnpm install --no-frozen-lockfile && pnpm run build"
 	},
 	"devDependencies": {
 		"@eslint/eslintrc": "^3.3.0",
