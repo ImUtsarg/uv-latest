@@ -15,6 +15,7 @@
 		"client.d.ts"
 	],
 	"type": "module",
+	"packageManager": "pnpm@<replace-with-actual-version>", // <--- Add the line here
 	"scripts": {
 		"build": "node build.js",
 		"dev": "node build.js --dev",
