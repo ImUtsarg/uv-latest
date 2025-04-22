@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@mercuryworkshop/bare-mux':
-        specifier: ^2.1.6
-        version: 2.1.6
+        specifier: ^2.1.7
+        version: 2.1.7
       astring:
         specifier: ^1.9.0
         version: 1.9.0
@@ -18,36 +18,36 @@ importers:
         specifier: ^3.3.0
         version: 3.3.0
       idb:
-        specifier: ^8.0.0
-        version: 8.0.0
+        specifier: ^8.0.2
+        version: 8.0.2
       meriyah:
-        specifier: ^6.0.2
-        version: 6.0.2
+        specifier: ^6.0.5
+        version: 6.0.5
       parse5:
-        specifier: ^7.2.0
-        version: 7.2.0
+        specifier: ^7.2.1
+        version: 7.2.1
       set-cookie-parser:
         specifier: ^2.7.1
         version: 2.7.1
     devDependencies:
       '@eslint/eslintrc':
-        specifier: ^3.1.0
-        version: 3.1.0
+        specifier: ^3.3.0
+        version: 3.3.0
       '@eslint/js':
-        specifier: ^9.13.0
-        version: 9.13.0
+        specifier: ^9.21.0
+        version: 9.21.0
       esbuild:
-        specifier: ^0.24.0
-        version: 0.24.0
+        specifier: ^0.25.0
+        version: 0.25.0
       eslint:
-        specifier: ^9.13.0
-        version: 9.13.0
+        specifier: ^9.21.0
+        version: 9.21.0
       globals:
-        specifier: ^15.11.0
-        version: 15.11.0
+        specifier: ^16.0.0
+        version: 16.0.0
       prettier:
-        specifier: ^3.3.3
-        version: 3.3.3
+        specifier: ^3.5.3
+        version: 3.5.3
       rimraf:
         specifier: ^6.0.1
         version: 6.0.1
